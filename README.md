@@ -7,7 +7,17 @@ Scraping using Selenium, BeautyfulSoup and AWS Lambda
 ## EDA:
 ## Visualization
 ## Feature_Selection:
-## Feature_Enginnering:
+## Feature_Engineering:
+## Regression:
+## Classification:
+## Decision_Tree:
+## Random_Forest:
+## KNN:
+## Clustering:
+i. KMeans.
+ii. PCA.
+## Naivebayes:
+## SVM:
 
 # Libraries:
 ## Sklearn:
