@@ -20,6 +20,13 @@ ii. PCA.
 ## SVM:
 
 # Libraries:
+## Pandas:
+## Numpy:
+## Spacy:
+## Scipy:
+## Matplotlib:
+## Seaborn:
+## Plotly:
 ## Sklearn:
 ## Tensorflow:
 ## Keras:
